@@ -1,2 +1,2 @@
-# DSA-repo
+# DSA Notes
 Basic python concepts
